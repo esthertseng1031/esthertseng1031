@@ -7,7 +7,7 @@ I love finally solving the problem even if I spent 2 consecutive days undoing th
 I had never been more proud of myself when I received the completion certificate.
 - 💞️ I’m currently learning CS50's Web Programming with Python and JavaScript on edX.
 - 📫 My contact: esthtseng@gmail.com
-- ✨ Feel free to reach out to me! 
+- ✨ Feel free to reach out to me :)
 
 
 <!---
